@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.borda{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 20px;
+    width: 60%;
+
+}
+
+.divisao{
+    border-color: black;
+    border-width: 1px;
+    border-style: dotted;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    background-color: rgba(128, 128, 128, 0.555);
+    text-align: center;
+}
+
+#escola{
+    margin-left: 50px;
+}
